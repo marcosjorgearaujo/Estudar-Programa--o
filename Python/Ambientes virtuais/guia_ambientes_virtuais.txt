@@ -1,0 +1,23 @@
+Para criar: python(versão do python) -m venv (nome do venv)
+
+Para ativar: <pasta_com_ambiente>/Scripts/activate
+
+Para desativar: deactivate
+
+Criar pasta pelo terminal: mkdir <nome da pasta>
+
+Passear por pastas: cd (change directory)
+
+Exportar bibliotecas python: pip freeze > <nome_arquivo.ext>(requisitos.txt)
+
+Instalar bibliotecas a partir de export: pip install -r requisitos.txt
+
+Limpar terminal: cls
+
+Obtém versão do python: python --version
+
+
+Guia: https://www.youtube.com/watch?v=ciFdSA8b2qw
+
+
+
